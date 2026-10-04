@@ -1,0 +1,42 @@
+# Dependencies
+/vendor
+node_modules
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Logs and error output
+*.log
+error_log
+npm-debug.log
+yarn-error.log
+
+# Generated quote PDFs (the folder itself is kept so the app can write to it)
+/public/pdf/*
+!/public/pdf/.gitkeep
+
+# User-uploaded company logos (the folder itself is kept so the app can write to it)
+/public/images/companies_logos/*
+!/public/images/companies_logos/.gitkeep
+# ...except the demo logos (the demo broker's logo and the default quote logo)
+!/public/images/companies_logos/demo-broker-logo.png
+!/public/images/companies_logos/xecute_logo.jpg
+
+# Framework runtime artifacts
+/public/hot
+/public/storage
+**/bootstrap/cache/*.php
+.phpunit.result.cache
+
+# Editors, local tooling and OS files
+/.idea
+/.vscode
+/.claude
+.DS_Store
+Thumbs.db
+# Laravel Excel temporary files
+storage/framework/laravel-excel/

@@ -1,0 +1,1 @@
+change your password <a href="https://integrityinsurance.dev505.io/public/api/forgot/{{$token}}">here</a>
