@@ -26,6 +26,55 @@ The application enables insurance brokers to manage employer clients, maintain e
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.jpg)
+
+---
+
+### New Quote
+
+![New Quote](screenshots/new-quote.jpg)
+
+---
+
+### Clients
+
+![Clients](screenshots/clients.jpg)
+
+---
+
+### Saved Quotes
+
+![Saved Quotes](screenshots/saved-quotes.jpg)
+
+---
+
+### Profile Settings
+
+![Profile Settings](screenshots/profile-settings.png)
+
+---
+
+### Print Confirmation
+
+![Print Confirmation](screenshots/print-confirmation.png)
+
+---
+
+### PDF Preview
+
+![PDF Preview](screenshots/pdf-preview.png)
+
+---
+
+### Billing
+
+![Billing](screenshots/billing.png)
+
+
 ## 🛠 Tech Stack
 
 | Layer | Technology |
