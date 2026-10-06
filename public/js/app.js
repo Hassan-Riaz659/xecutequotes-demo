@@ -150803,7 +150803,7 @@ var ComparePrice = /*#__PURE__*/function (_Component) {
         jquery__WEBPACK_IMPORTED_MODULE_10___default()('body').removeClass("active"); // or fade, css display however you'd like.
       }, 8000);
       Swal.fire({
-        title: "Would you like to include employee rates?",
+        title: "For printing plans, Would you like to include employee rates?",
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
@@ -161510,7 +161510,7 @@ var SeeComparedPlans = /*#__PURE__*/function (_Component) {
         jquery__WEBPACK_IMPORTED_MODULE_10___default()('body').removeClass("active"); // or fade, css display however you'd like.
       }, 8000);
       Swal.fire({
-        title: "Would you like to include employee rates?",
+        title: "For printing plans, Would you like to include employee rates?",
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
@@ -165014,11 +165014,11 @@ var DashboardFooter = /*#__PURE__*/function (_Component) {
         className: "col-7 col-md-3 reachUs-col"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "Reach us"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
         className: "fas fa-envelope"
-      }), "patrick@xecutequotes.com"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+      }), "contact@example.com"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
         className: "fas fa-mobile-alt"
-      }), "505-797-3380"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
+      }), "+1 (555) 000-0000"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("i", {
         className: "fas fa-map-marker-alt"
-      }), "9577 Osuna Rd NE Suite E Albuquerque, NM 87111")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+      }), "Demo Business Address")))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
         className: "footer-bar footer-bar2"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "container-fluid"
@@ -165026,7 +165026,7 @@ var DashboardFooter = /*#__PURE__*/function (_Component) {
         className: "row"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-12 col-md-5 col-lg-6 copy-right"
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\xA9 2021 Xecute. All rights reserved")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\xA9 2026 Xecute Quotes Demo")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "col-12 col-md-7 col-lg-6 terms-condition"
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
         className: "list-inline"
@@ -174853,8 +174853,8 @@ var Test = /*#__PURE__*/function (_Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! ./resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! ./resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\xampp74\htdocs\Refining xecutequotes\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\xampp74\htdocs\Refining xecutequotes\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

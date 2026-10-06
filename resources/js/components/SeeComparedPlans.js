@@ -183,7 +183,7 @@ handlePdfPrint(e)
 
                 
     Swal.fire({
-                  title: "Would you like to include employee rates?",
+                  title: "For printing plans, Would you like to include employee rates?",
                   icon: 'warning',
                   showCancelButton: true,
                   confirmButtonColor: '#3085d6',
