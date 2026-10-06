@@ -30,25 +30,25 @@ The application enables insurance brokers to manage employer clients, maintain e
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.jpg)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
 ### New Quote
 
-![New Quote](screenshots/new-quote.jpg)
+![New Quote](screenshots/new-quote.png)
 
 ---
 
 ### Clients
 
-![Clients](screenshots/clients.jpg)
+![Clients](screenshots/clients.png)
 
 ---
 
 ### Saved Quotes
 
-![Saved Quotes](screenshots/saved-quotes.jpg)
+![Saved Quotes](screenshots/saved-quotes.png)
 
 ---
 
